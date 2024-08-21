@@ -1,0 +1,19 @@
+{
+  "name": "rtn-cookie-manager",
+  "version": "0.1.0",
+  "description": "Module pour gérer les cookies HttpOnly dans React Native",
+  "main": "js/NativeCookieManager.ts",
+  "files": [
+    "js",
+    "android",
+    "ios",
+    "rtn-cookie-manager.podspec"
+  ],
+  "author": "Rodolphe",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  }
+}
+
